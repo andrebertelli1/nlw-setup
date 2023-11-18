@@ -19,8 +19,7 @@ Você no controle da sua rotina!
   <a href="#sobre">Sobre</a> •
   <a href="#habits">Habits</a> •
   <a href="#instalação">Instalação</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#autor">Autor</a>  
+  <a href="#tecnologias">Tecnologias</a> •  
 </p>
 
 ## Sobre
